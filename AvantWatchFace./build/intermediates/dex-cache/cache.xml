@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/casey/Documents/AVANTWATCHFACE/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="c6d79137693d494dee16372d3921f919eb724ced">
+        <dex dex="/Users/casey/Documents/AVANTWATCHFACE/app/build/intermediates/pre-dexed/release/classes-b81d45b11687d00a1b3116dd9ebaae78641c1fc9.jar" />
+    </item>
+    <item
+        jar="/Users/casey/Development/adt-bundle-mac-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/casey/Documents/AVANTWATCHFACE/app/build/intermediates/pre-dexed/release/support-annotations-22.2.0-44806439df4839598b572c6649ab7324c2fd0ff2.jar" />
+    </item>
+    <item
+        jar="/Users/casey/Documents/AVANTWATCHFACE/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="c0c912d58c9468b1f9d9769c8975afdf2c85d681">
+        <dex dex="/Users/casey/Documents/AVANTWATCHFACE/app/build/intermediates/pre-dexed/release/classes-40fe99d3321f20fce5581f9ac7167c30d3e64e35.jar" />
+    </item>
+    <item
+        jar="/Users/casey/Documents/AVANTWATCHFACE/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/casey/Documents/AVANTWATCHFACE/app/build/intermediates/pre-dexed/release/classes-0db01c722c8d709b9eb1542b0433b831090cd87a.jar" />
+    </item>
+    <item
+        jar="/Users/casey/Documents/AVANTWATCHFACE/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/casey/Documents/AVANTWATCHFACE/app/build/intermediates/pre-dexed/release/internal_impl-22.2.0-577610ab8a24b84b6c8fc20be7fc0546611cacfc.jar" />
+    </item>
+    <item
+        jar="/Users/casey/Documents/AVANTWATCHFACE/app/build/intermediates/exploded-aar/com.google.android.support/wearable/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="58b928ccbaf9090c632f278d6bd31e1ae42f2457">
+        <dex dex="/Users/casey/Documents/AVANTWATCHFACE/app/build/intermediates/pre-dexed/release/classes-9de30cf317384b9eef5ab33dd1dbd29617c4beab.jar" />
+    </item>
+    <item
+        jar="/Users/casey/Documents/AVANTWATCHFACE/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="c5cafb324568d954780abb858c25db7ce675ab3c">
+        <dex dex="/Users/casey/Documents/AVANTWATCHFACE/app/build/intermediates/pre-dexed/release/classes-75aa8ae58949e75031b11f0bc3143cc760aacc75.jar" />
+    </item>
+
+</items>
